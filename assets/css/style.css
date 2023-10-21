@@ -248,8 +248,6 @@ b {
 .footer_main {
     column-gap: 50px;
     display: grid;
-    grid-template-columns: repeat(4fr);
-    grid-template-rows: repeat(4fr);
     grid-template-areas:
     "Information Customer_Service Extras My_Account2"
     "About Contact_Us Brands My_Account"
